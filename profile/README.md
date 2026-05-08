@@ -121,15 +121,6 @@ Playlite is developed as an open-source-oriented project.
 
 Contributions, suggestions and discussions are welcome.
 
-Future plans include:
-
-* Plugin ecosystem
-* Cross-platform builds
-* Automated updates
-* Improved recommendation models
-* Better Steam integration
-* Expanded documentation
-
 ---
 
 ## 🔗 Links
