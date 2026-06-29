@@ -127,6 +127,7 @@ Contributions, suggestions and discussions are welcome.
 
 * Main Repository: [https://github.com/playlite-app/playlite](https://github.com/playlite-app/playlite)
 * Documentation: [https://playlite.vercel.app/](https://playlite.vercel.app/)
+* Landing Page: [https://landing-page-alan-oliveirs-projects.vercel.app/pt-BR](https://landing-page-alan-oliveirs-projects.vercel.app/pt-BR)
 
 ---
 
